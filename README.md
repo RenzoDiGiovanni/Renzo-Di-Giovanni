@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/renzodigiovanni](https://www.behance.net/renzodigiovanni)
 
-- 💬 Ask me about **html, css, javascript y reactjs**
-
 - 📫 How to reach me **renzodigiovanni19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
